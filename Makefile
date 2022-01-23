@@ -6,3 +6,6 @@ test:
 
 fmt:
 	npx prettier -c "**"
+
+run:
+	npm start
